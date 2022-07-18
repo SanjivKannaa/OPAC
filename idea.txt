@@ -1,1 +1,25 @@
 1. create a database...
+2. program flow
+    - login
+        - check user level
+        - return dashboard
+            - admin
+                - 
+            - library staff
+                -
+            - student
+                - 
+3. options
+    - library
+        - OPAC
+        - student
+            - check where book is
+            - check book history
+            - complain
+            - request/feedback
+        - 
+    - get information
+        - student info
+        - book info
+        - 
+    
